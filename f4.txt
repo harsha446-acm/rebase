@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 morning
+=======
+good
+>>>>>>> 78b43ec (commit4)
